@@ -1,1 +1,1 @@
-# html-css-cheatsheet-made for Codecademy 
+# HTML & CSS cheatsheet made for a Codecademy project during the GERE program. 
